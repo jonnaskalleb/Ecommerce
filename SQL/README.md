@@ -18,7 +18,7 @@ Essa estrutura melhora a performance das análises e facilita a criação de mé
 
 
 
-### Resultado>> As views criadas transformam dados brutos em uma base de dados para analisar, permitindo:
+### As views criadas transformam dados brutos em uma base de dados para analisar, resultando em:
 
 - Análise de receita e performance comercial
 - Avaliação da eficiência logística
