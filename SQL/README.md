@@ -1,11 +1,12 @@
 # Estrutura das Views:
 
-O modelo foi organizado seguindo o conceito de Star Schema (Modelo Estrela):
+### O modelo foi organizado seguindo o conceito de Star Schema (Modelo Estrela):
 
-Tabelas fato: pedidos e itens
-Tabelas dimensão: clientes, produtos e vendedores
+- Tabelas fato: pedidos e itens
+- Tabelas dimensão: clientes, produtos e vendedores
 
 Essa estrutura melhora a performance das análises e facilita a criação de métricas no Power BI.
+
 
 ## Principais técnicas utilizadas:
 - LEFT JOIN → integração entre tabelas
@@ -16,7 +17,8 @@ Essa estrutura melhora a performance das análises e facilita a criação de mé
 - WHERE → filtragem de dados inválidos
 
 
-## Resultado>> As views criadas transformam dados brutos em uma base de dados para analisar, permitindo:
+
+### Resultado>> As views criadas transformam dados brutos em uma base de dados para analisar, permitindo:
 
 - Análise de receita e performance comercial
 - Avaliação da eficiência logística
