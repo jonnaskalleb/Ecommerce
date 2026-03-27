@@ -1,4 +1,4 @@
-#Estrutura das Views:
+##Estrutura das Views:
 
 O modelo foi organizado seguindo o conceito de Star Schema (Modelo Estrela):
 
