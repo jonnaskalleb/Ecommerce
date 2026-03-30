@@ -18,7 +18,7 @@ Para entender como esse conflito afeta um E-commerce na prática, analisei os da
 
 ## O Brasil não é um mercado simples, é um país continental com muita complexidade.
 
-São Paulo concentra 37% do faturamento total, mostrando que há um desequilibro significativo de demanda.
+São Paulo concentra 37% do faturamento total, mostrando que há um desequilibro significativo.
 
 Em um cenário de aumento do custo logístico, regiões distantes e menos desenvolvidas tendem a perder ainda mais competitividade.
 
